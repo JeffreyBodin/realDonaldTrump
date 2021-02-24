@@ -14,4 +14,4 @@ Pulled from,
   -> `https://files.pushshift.io/requests/realdonaldtrump_22893.gz`
   -> `realdonaldtrump_22893.gz                           05-Jun-2017 00:48             4176678`
 
-[**THIS**](NOTE INSERT LINK TO T  ) is 
+[**THIS**](dev/2017-06-04/README.md)   
